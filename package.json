@@ -1,0 +1,11 @@
+{
+  "name": "vibecoders-ia-game-os",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 4174",
+    "serve": "python3 -m http.server 4174",
+    "dev:win": "python -m http.server 4174"
+  }
+}
+
